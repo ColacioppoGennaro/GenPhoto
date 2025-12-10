@@ -28,8 +28,8 @@ https://www.gruppogea.net/genphoto/
 You can download GenPhoto in two ways:
 
 - **From GitHub Releases (EXE):**  
-  https://github.com/ColacioppoGennaro/GenPhoto/releases
-
+  https://github.com/GenGeCo/GenPhoto/releases/tag/v1.0.0
+  
 - **From the official website (video demo + FAQ):**  
   https://www.gruppogea.net/genphoto/
 
